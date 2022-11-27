@@ -81,7 +81,7 @@
 <style lang="scss" scoped>
   @font-face {
     font-family: "Digital-7";
-    src: url("src/assets/digital_7/digital-7.ttf");
+    src: url("/src/assets/digital_7/digital-7.ttf");
   }
   .led {
     font-family: "Digital-7";
